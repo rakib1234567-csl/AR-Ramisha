@@ -17,7 +17,7 @@
     "PASSWORD": "",
     "OTPKEY": "",
     "BOTNAME": "AR Ramisha",
-    "PREFIX": "/",
+    "PREFIX": "=",
     "ADMINBOT": [
         "100044487340424",
     ],
